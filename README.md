@@ -1,4 +1,5 @@
-# Ironhack-final-project
+# Ironhack final project: Modelling and EDA regarding IBM Attrition Rates.  
+# Project Team: Michael Taylor
 
 # Plan
 
